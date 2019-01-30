@@ -1,4 +1,4 @@
-//01/30
+﻿//01/30
 ・Webサーバー
     Apache
         Apacheソフトウェア財団が開発・管理するWWWサーバで、正式名称はApache HTTP Serverである。ライセンスはApache License2.0。
@@ -10,7 +10,7 @@ The Apache HTTP Server Project is an effort to develop and maintain an open-sour
 
 
 
-
+512981519818192981
 
 
 
