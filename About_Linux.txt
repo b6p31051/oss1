@@ -23,7 +23,28 @@
  ----------------------------------------------------------------------------------------------------------------------------
   
   種類:
-  
+ 
+ Debian系
+　　→使い方・特徴
+・コミュニティーベースで開発され、無償で利用可能(100％フリーな環境で構成)
+・フリーソフトウェアのみに厳密に用いて作成されているディストリビューション
+・利用可能なパッケージ数が多く、サーバーでもクライアントでもOK
+
+→ホームぺージ　　　https://www.debian.org/
+　ダウンロード　　　https://www.debian.org/distrib/
+
+
+派生形　
+　→　Ubuntu Linux 
+        　ホームページ　https://www.ubuntulinux.jp/
+　　　　　ダウンロード　https://www.ubuntulinux.jp/download/ja-remix
+
+　→　Linux mint
+　　　　　ホームページ　https://www.linuxmint.com/
+　　　　　ダウンロード　https://www.linuxmint.com/download.php
+
+
+
   
   
   
