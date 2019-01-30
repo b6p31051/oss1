@@ -1,4 +1,5 @@
-・Webサーバー
+﻿・Webサーバー
     Apache
         Apacheソフトウェア財団が開発・管理するWWWサーバで、正式名称はApache HTTP Serverである。ライセンスはApache License2.0。
         Apache License 2.0 を使用する有名なプロジェクトは、AndroidやSwiftがある。
+とても眠い
