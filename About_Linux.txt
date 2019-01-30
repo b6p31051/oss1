@@ -1,4 +1,4 @@
-Linux
+﻿Linux
 
   Linuxのマスコット「Tux」
   OSの系統	Unix系
@@ -45,5 +45,25 @@ Plamo Linux
         日本語 Linux ディストリビューションです．
      パッケージ管理システム:
         TXZ
+
+
+
+Red Hat Linux
+
+
+
+
+https://ja.wikipedia.org/wiki/Red_Hat_Enterprise_Linux%E6%B4%BE%E7%94%9F%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3
+
+Red Hat Linuxは最初期からあり、人気のあるLinuxディストリビューションのひとつであった。
+　無料版と有料版があった
+派生　
+有料版　Red Hat Linux
+無料版　Fedora
+
+FedoraはRed Hat Enterprise Linuxへと搭載する前に新しい機能のベータテスト的な検証を行うためのOSとなっている。
+
+https://www.redhat.com/ja/technologies/linux-platforms/enterprise-linux
+Red Hat Enterprise Linuxはビジネスで運営するアプリケーションを強化する。
   
   
