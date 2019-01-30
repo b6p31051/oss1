@@ -1,4 +1,4 @@
-EWebƒT[ƒo[
-Apache
-Apacheƒ\ƒtƒgƒEƒFƒAà’c‚ªŠJ”­EŠÇ—‚·‚éWWWƒT[ƒo‚ÅA³Ž®–¼Ì‚ÍApache HTTP Server‚Å‚ ‚éBƒ‰ƒCƒZƒ“ƒX‚ÍApache License2.0B
-Apache License 2.0 ‚ðŽg—p‚·‚é—L–¼‚ÈƒvƒƒWƒFƒNƒg‚ÍAAndroid‚âSwift‚ª‚ ‚éB
+ãƒ»Webã‚µãƒ¼ãƒãƒ¼
+    Apache
+        Apacheã‚½ãƒ•ãƒˆã‚¦ã‚§ã‚¢è²¡å›£ãŒé–‹ç™ºãƒ»ç®¡ç†ã™ã‚‹WWWã‚µãƒ¼ãƒã§ã€æ­£å¼åç§°ã¯Apache HTTP Serverã§ã‚ã‚‹ã€‚ãƒ©ã‚¤ã‚»ãƒ³ã‚¹ã¯Apache License2.0ã€‚
+        Apache License 2.0 ã‚’ä½¿ç”¨ã™ã‚‹æœ‰åãªãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã¯ã€Androidã‚„SwiftãŒã‚ã‚‹ã€‚
